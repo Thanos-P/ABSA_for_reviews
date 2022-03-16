@@ -1,0 +1,7 @@
+# Data
+*.txt
+*.csv
+*.json
+
+# Models
+*.h5
